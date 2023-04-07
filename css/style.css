@@ -1,0 +1,21 @@
+nav {
+  background-color: #333;
+  color: #fff;
+  display: flex;
+  justify-content: space-between;
+  padding: 10px;
+}
+
+ul {
+  display: flex;
+  list-style-type: none;
+}
+
+li {
+  margin-right: 10px;
+}
+
+a {
+  color: #fff;
+  text-decoration: none;
+}
